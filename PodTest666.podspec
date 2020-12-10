@@ -1,5 +1,5 @@
 Pod::Spec.new do |spec|
-  spec.name          = 'PodTest'
+  spec.name          = 'PodTest666'
   spec.version       = '0.0.1'
   spec.license       = 'MIT'
   spec.authors       = { 'gasol' => '1ezya007@gmail.com' }
